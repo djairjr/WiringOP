@@ -8,10 +8,10 @@ displayTFT example added by flexiti  (ili4188 8 bit 3.95 inch)
 
 Tested on Orange Pi PC with Armbian
 
-#Based on https://github.com/zhaolei/WiringOP.git -b h3
+##Based on https://github.com/zhaolei/WiringOP.git -b h3
 
 ## Download
-### For Orangepi Pi
+### For Orangepi Pi 
     git clone https://github.com/flexiti/WiringOP.git -b h3 
 ## Installation
     cd WiringOP
