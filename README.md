@@ -3,6 +3,9 @@
 This is a modified WiringPi for OrangePi. We call it WiringOP.
 Test fo Orangepi pc
 
+03.06.2016
+displayTFT example added by flexiti  (ili4188 8 bit 3.95 inch)
+
 ## Download
 ### For Orangepi Pi
     git clone https://github.com/zhaolei/WiringOP.git -b h3 
