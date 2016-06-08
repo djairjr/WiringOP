@@ -4,7 +4,8 @@ This is a modified WiringPi for OrangePi. We call it WiringOP.
 Test fo Orangepi pc
 
 03.06.2016
-displayTFT example added by flexiti  (ili9488 8 bit 3.95 inch)
+## displayTFT example added by flexiti  (ili9488 8 bit 3.95 inch)
+
 http://pl.aliexpress.com/item/Free-shipping-LCD-module-Pi-TFT-3-6-inch-for-raspberry-pi-display-screen/32236159766.html
 
 Tested on Orange Pi PC with Armbian
