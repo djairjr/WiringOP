@@ -5,6 +5,8 @@ Test fo Orangepi pc
 
 03.06.2016
 ## displayTFT example added by flexiti  (ili9488 8 bit 3.95 inch)
+## displayTFT.c and fonts.h
+## currently display shows CPU temperature and ext. temperature if DS1820 connected (data on pin 37)
 
 http://pl.aliexpress.com/item/Free-shipping-LCD-module-Pi-TFT-3-6-inch-for-raspberry-pi-display-screen/32236159766.html
 
